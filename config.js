@@ -21,12 +21,12 @@ module.exports = {
 
     //wallets for donations
     donations: {
-        eth: '0xF01Acbaf3e5d2403015ac6E8C2518EfEDdaBC699',
+        eth: '0xD277a99c0d08DED3bDB253024bfF81E41496465c',
         btc: '1JMpxB35CQvhxGmrhqbh5dbe9LwJT8tU3q'
     },
 
     contacts: {
-        email: 'contact@justsmartcontracts.dev',
+        email: 'contact@',
         github: 'https://github.com/olekon/justsmartcontracts'
     },
 
