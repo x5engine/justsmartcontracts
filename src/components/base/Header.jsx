@@ -15,7 +15,7 @@ class Header extends React.Component {
             <Row>
                 <Col span={12}>
                     <p className={styles.headerLogo}>
-                        <NavLink to='/'>X5 Smart Contract</NavLink>
+                        <NavLink to='/'>Interactive Smart Contract</NavLink>
                     </p>
                 </Col>
                 <Col span={6} push={5}>
